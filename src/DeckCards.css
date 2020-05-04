@@ -1,0 +1,19 @@
+.DeckCards {
+    text-align: center;
+
+}
+
+button {
+    border-radius: 10px;
+    background-color: grey;
+    color: white;
+    text-transform: uppercase;
+}
+
+.Deck img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    margin-top: 70px;
+}
